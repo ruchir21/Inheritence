@@ -1,2 +1,2 @@
 # Inheritence
-Program Showing Use Of Inheritence
+Program To Implement Inheritence and super keyword.
